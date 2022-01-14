@@ -1,0 +1,22 @@
+.labrepBut{
+    color: white;
+    text-decoration: none;
+}
+.labrepBut:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.viewDetails{
+    float : right;
+}
+
+.headinglist{
+    width: 50%;
+}
+.cardsList{
+    margin: 5px 10% 5px 10% ;
+}
+.floatright{
+    float: right;
+}

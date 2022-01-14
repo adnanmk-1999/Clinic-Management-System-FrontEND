@@ -1,0 +1,169 @@
+body{
+    background-color: rgb(129, 214, 248);
+  }
+  
+  .nav{
+    list-style-type: None;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(12, 99, 170);
+    text-decoration: None;
+  }
+  
+  .list{
+    float: left;
+  }
+  
+  .link{
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 15px;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-weight: lighter;
+      }
+      .h{
+        color:rgb(12, 99, 170);
+      }
+      
+  .link:hover{
+    background-color:rgb(79, 80, 79);
+    color: aliceblue;
+  }
+  
+  .home{
+    border-radius: 5px;
+    padding: 10px 25% 10px 25%;
+  }
+  
+  .footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(12, 99, 170);
+    color: white;
+  }
+  
+  .form{
+    border-radius: 5px;
+    background-color: #c5ddee;
+    margin : 0px 20% 0px 20%
+
+  }
+  
+  .label,h1,h2,h3,h4,h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:100%;
+  } 
+  
+  .input{
+    width: 100%;
+    padding: 7px ;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  
+  }
+  .input:hover{
+    background-color: #c5ddee;
+  }
+  
+  .btn-submit{
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-submit:hover{
+    background-color: rgb(0, 128, 17);
+  }
+  
+  .btn-reset{
+    background-color:rgb(105, 105, 105);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn-reset:hover{
+    background-color: black;
+  }
+  
+  .rdo{
+   font-size: 100%;
+  }
+  
+  .bld{
+    width: 100%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  p{
+    text-align: justify;
+  }
+  .heading{
+    padding-top: 10px;
+  }
+
+  .logoImg{
+    width: 150px;
+    padding :5px;
+  }
+  .container{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(18, 3, 109);
+  }
+  .backgroundImage{
+    background-image: url(https://wallpaperaccess.com/full/1690764.jpg);
+  }
+  .footerBackground{
+    background-color: #4285F4;
+  }
+
+  .copyright{
+    color: white;
+  }
+  #nav-dropdown{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+  }
+
+  #nav-dropdown:hover{
+    background-color:rgb(79, 80, 79);
+    color: aliceblue;
+  }
+
+  .link1{
+    display: block;
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+.link1:hover{
+background-color:rgb(79, 80, 79);
+color: aliceblue;
+}
+
+Form{
+  padding : 20px 10% 20px 10%
+}

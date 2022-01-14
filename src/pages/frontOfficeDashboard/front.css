@@ -1,0 +1,15 @@
+.billCards{
+    margin: 5px 10% 5px 10%;
+}
+.staffCards{
+    margin: 0px 10% 0px 10%;
+}
+
+.floatright{
+    float : right
+}
+
+.whole_width{
+    width:70%;
+    margin-left: 15%;
+}

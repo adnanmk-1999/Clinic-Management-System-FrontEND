@@ -1,0 +1,12 @@
+.forDoctorPage{
+    margin: 5px 20% 5px 20%;
+}
+.patientId{
+    float: right;
+    background-color: black;
+    color:white;
+    margin: 2px solid black;
+}
+.floatright{
+    float: right;
+}
